@@ -1,0 +1,21 @@
+# create a virtual environment -- python -m pip install virtualenv 
+# --python -m venv venv
+# venv/scripts/activate -- to get into the environment
+# install django -- python -m pip install Django
+# start project django-admin startproject <name> . 
+# start app -- python manage.py startapp <name>
+# get key
+# install the bootsrap packages -- pip install django-crispy-forms crispy-bootstrap4
+# install decouple -- pip install python-decouple
+# install Pillow -- pip install Pillow
+
+# pythonmanage.py makemigrations
+# python manage.py migrate
+
+# python manage.py runserver
+
+
+
+
+
+
