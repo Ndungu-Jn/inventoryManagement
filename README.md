@@ -71,13 +71,13 @@ The application includes Create, Read, Update, and Delete (CRUD) operations for 
 
 ## 🛠️ Technologies Used
 
-| Layer         | Technology     |
-|---------------|----------------|
-| Framework     | Django (Python)|
-| Frontend      | HTML5, CSS3    |
-| Backend       | Python         |
-| Database      | SQLite         |
-| Authentication| Django Auth    |
+| Layer         | Technology                 |
+|---------------|----------------            |
+| Framework     | Django (Python)            |
+| Frontend      | HTML5, CSS3, bootstrap     |
+| Backend       | Python                     |
+| Database      | SQLite                     |
+| Authentication| Django Auth                |
 
 ---
 
